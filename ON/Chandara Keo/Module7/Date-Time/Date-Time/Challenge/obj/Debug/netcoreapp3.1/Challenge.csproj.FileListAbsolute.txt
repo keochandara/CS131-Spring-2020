@@ -1,0 +1,13 @@
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module7\Date-Time\Date-Time\Challenge\bin\Debug\netcoreapp3.1\Challenge.exe
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module7\Date-Time\Date-Time\Challenge\bin\Debug\netcoreapp3.1\Challenge.deps.json
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module7\Date-Time\Date-Time\Challenge\bin\Debug\netcoreapp3.1\Challenge.runtimeconfig.json
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module7\Date-Time\Date-Time\Challenge\bin\Debug\netcoreapp3.1\Challenge.runtimeconfig.dev.json
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module7\Date-Time\Date-Time\Challenge\bin\Debug\netcoreapp3.1\Challenge.dll
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module7\Date-Time\Date-Time\Challenge\bin\Debug\netcoreapp3.1\Challenge.pdb
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module7\Date-Time\Date-Time\Challenge\obj\Debug\netcoreapp3.1\Challenge.csprojAssemblyReference.cache
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module7\Date-Time\Date-Time\Challenge\obj\Debug\netcoreapp3.1\Challenge.csproj.CoreCompileInputs.cache
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module7\Date-Time\Date-Time\Challenge\obj\Debug\netcoreapp3.1\Challenge.AssemblyInfoInputs.cache
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module7\Date-Time\Date-Time\Challenge\obj\Debug\netcoreapp3.1\Challenge.AssemblyInfo.cs
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module7\Date-Time\Date-Time\Challenge\obj\Debug\netcoreapp3.1\Challenge.dll
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module7\Date-Time\Date-Time\Challenge\obj\Debug\netcoreapp3.1\Challenge.pdb
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module7\Date-Time\Date-Time\Challenge\obj\Debug\netcoreapp3.1\Challenge.genruntimeconfig.cache
