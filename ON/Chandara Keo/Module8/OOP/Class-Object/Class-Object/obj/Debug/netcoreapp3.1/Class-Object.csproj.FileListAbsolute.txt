@@ -1,0 +1,13 @@
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module8\OOP\Class-Object\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.exe
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module8\OOP\Class-Object\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.deps.json
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module8\OOP\Class-Object\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.runtimeconfig.json
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module8\OOP\Class-Object\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.runtimeconfig.dev.json
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module8\OOP\Class-Object\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.dll
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module8\OOP\Class-Object\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.pdb
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module8\OOP\Class-Object\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.csprojAssemblyReference.cache
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module8\OOP\Class-Object\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.csproj.CoreCompileInputs.cache
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module8\OOP\Class-Object\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.AssemblyInfoInputs.cache
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module8\OOP\Class-Object\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.AssemblyInfo.cs
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module8\OOP\Class-Object\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.dll
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module8\OOP\Class-Object\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.pdb
+C:\Users\dara2\source\repos\CS131-Spring-2020\ON\Chandara Keo\Module8\OOP\Class-Object\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.genruntimeconfig.cache
