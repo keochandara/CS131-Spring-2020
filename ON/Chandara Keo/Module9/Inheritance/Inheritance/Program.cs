@@ -10,6 +10,14 @@ namespace Inheritance
             public double width;
             public double radius;
 
+            public static void Display(double length, double width, double radius)
+            {
+
+                Console.WriteLine("Base length is " + length);
+                Console.WriteLine("Base width is " + width);
+                Console.WriteLine("Base radius is " + radius);
+                Console.WriteLine("\n");
+            }
            
         }
         class Rectangle : Shapes
@@ -55,11 +63,8 @@ namespace Inheritance
 
             Square MySq = new Square();
 
-            Console.WriteLine("Base length is " + MyRec.length);
-            Console.WriteLine("Base width is " + MyRec.width);
-            Console.WriteLine("Base radius is " + MyCir.radius);
-            Console.WriteLine("\n");
 
+            Shapes.Display(MyRec.length, MyRec.width, MyRec.radius);
 
 
             MyRec.CalArea(3, 4);
